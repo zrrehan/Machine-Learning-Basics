@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alice",
+        "age": 22,
+        "gender": "Female",
+        "gpa": 3.6
+    },
+    {
+        "name": "Bob",
+        "age": 24,
+        "gender": "Male",
+        "gpa": 3.2
+    },
+    {
+        "name": "Charlie",
+        "age": 23,
+        "gender": "Male",
+        "gpa": 3.4
+    },
+    {
+        "name": "Diana",
+        "age": 21,
+        "gender": "Female",
+        "gpa": 3.9
+    }
+]
